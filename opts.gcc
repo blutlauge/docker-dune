@@ -1,0 +1,1 @@
+CMAKE_FLAGS="-DCMAKE_CXX_FLAGS='-O3 -DNDEBUG -g0 -funroll-loops -ftemplate-depth=5120 -march=native -Wa,-q --no-strict-aliasing -ffast-math'"
